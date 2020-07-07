@@ -1,0 +1,15 @@
+# Band	Title	Tags	Filepath
+#Sum 41	Fat Lip	punk,rock	/home/guy/Videos/fatlip.mp4
+#Sum 41	Walking Disaster	punk,rock	/home/guy/Videos/disaster.mp4
+Rise Against	Savior	rock	/home/guy/Videos/savior.mp4
+#Offspring	You're Gonna Go Far Kid	punk,rock	/home/guy/Videos/kid.mp4
+#Imagine Dragons	Radioactive	party	/home/guy/Videos/radioactive.mp4
+Taylor Swift	Wildest Dreams	country,light	/home/guy/Videos/wildest.mp4
+#I Prevail	Blank Space	punk,rock,cover	/home/guy/Videos/blank.mp4
+Boyce Avenue	See You Again	acoustic,cover	/home/guy/Videos/again.mp4
+Boyce Avenue	Photograph	acoustic,cover	/home/guy/Videos/photograph.mp4
+Boyce Avenue	Beautiful Soul	acoustic,cover	/home/guy/Videos/beautiful.mp4
+Boyce Avenue	Fast Car	acoustic,cover	/home/guy/Videos/fast.mp4
+Boyce Avenue	Thinking Out Loud	acoustic,cover	/home/guy/Videos/thinking.mp4
+Boyce Avenue	Somebody Like You	acoustic,cover	/home/guy/Videos/someone.mp4
+Boyce Avenue	A Thousand Years	acoustic,cover	/home/guy/Videos/thousand.mp4
